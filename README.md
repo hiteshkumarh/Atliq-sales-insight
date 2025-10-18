@@ -152,16 +152,8 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 ---
 
-## 12. Project Links
 
-* 🧮 [Power BI Dashboard (.pbix)](add-link-here)
-* 🖥️ [Project Presentation (.pptx)](add-link-here)
-* 📘 [Detailed Report (PDF)](add-link-here)
-* 💾 [SQL Database Dump](add-link-here)
-
----
-
-## 13. Author
+## 12. Author
 
 **Hithesh Kumar H**
 *Data Analyst | SQL | Power BI | Data Visualization*

@@ -145,9 +145,9 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 *Add your dashboard visuals here (e.g., Revenue by Market, Product Performance, Regional Trends, etc.)*
 
-
+![Data Model](https://github.com/hiteshkumarh/Atliq-sales-insight/blob/main/Screenshot%20of%20data%20modelling.png)
 ![Dashboard Overview](https://github.com/hiteshkumarh/Atliq-sales-insight/blob/main/Screenshot%20of%20dasboard.png)
-![Data Model](add-your-screenshot-link-here)
+
 
 
 ---

@@ -1,3 +1,7 @@
+Got it 👍 — here’s the **clean version without “#” before each section number**, keeping perfect Markdown formatting for GitHub.
+You can **directly copy and paste** this into your `README.md`, and just add your screenshot and file links where marked.
+
+---
 
 # 🧩 AtliQ Hardwares: Sales Insight and Performance Dashboard
 
@@ -7,7 +11,7 @@
 
 ---
 
-##  1. Introduction & Executive Summary
+## 1. Introduction & Executive Summary
 
 This project focuses on developing a **Sales Analytics and Business Intelligence solution** for **AtliQ Hardwares**, a company in the **FMCG sector** specializing in **computer hardware products**.
 
@@ -21,14 +25,14 @@ To address this, the **Sales Director** initiated a BI project to build an **int
 
 ---
 
-##  2. Problem Statement
+## 2. Problem Statement
 
 AtliQ Hardwares needed to overcome challenges in tracking and optimizing sales across multiple regions.
 The Sales Director required a **data-driven system** capable of providing **real-time, actionable insights** to improve revenue performance and operational efficiency.
 
 ---
 
-##  3. Project Objectives
+## 3. Project Objectives
 
 The primary objective was to build a **comprehensive Sales Intelligence Dashboard** to:
 
@@ -40,7 +44,7 @@ The primary objective was to build a **comprehensive Sales Intelligence Dashboar
 
 ---
 
-##  4. Tech Stack
+## 4. Tech Stack
 
 | Component              | Tool / Technology                                                  |
 | ---------------------- | ------------------------------------------------------------------ |
@@ -50,7 +54,7 @@ The primary objective was to build a **comprehensive Sales Intelligence Dashboar
 
 ---
 
-##  5. Project Structure
+## 5. Project Structure
 
 ```
 project2/
@@ -95,7 +99,7 @@ A structured data analytics workflow was followed:
 
 ---
 
-##  7. Dashboard & Key Visuals
+## 7. Dashboard & Key Visuals
 
 The **Power BI Dashboard** provides a centralized, interactive view of company-wide sales performance.
 
@@ -119,7 +123,7 @@ The **Power BI Dashboard** provides a centralized, interactive view of company-w
 
 ---
 
-##  9. Business Impact & Learnings
+## 9. Business Impact & Learnings
 
 ### 💼 Business Impact
 
@@ -135,7 +139,7 @@ The **Power BI Dashboard** provides a centralized, interactive view of company-w
 
 ---
 
-##  10. Conclusion
+## 10. Conclusion
 
 The **Sales Insight Dashboard** successfully transformed fragmented sales data into a unified business intelligence system.
 By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ leadership with real-time, actionable insights—promoting a **data-driven culture** and **sustained competitive advantage**.
@@ -153,7 +157,7 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 ---
 
-##  12. Project Links
+## 12. Project Links
 
 * 🧮 [Power BI Dashboard (.pbix)](add-link-here)
 * 🖥️ [Project Presentation (.pptx)](add-link-here)
@@ -162,8 +166,14 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 ---
 
-## # 13. Author
+## 13. Author
 
 **Hithesh Kumar H**
 *Data Analyst | SQL | Power BI | Data Visualization*
 
+📧 [[your-email@example.com](mailto:your-email@example.com)]
+🔗 [LinkedIn Profile](add-link-here)
+
+---
+
+Would you like me to make this README slightly **shorter (portfolio-friendly)** version that highlights visuals and key outcomes first — ideal for LinkedIn post or GitHub project pin?

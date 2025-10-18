@@ -1,13 +1,8 @@
-Got it 👍 — here’s the **clean version without “#” before each section number**, keeping perfect Markdown formatting for GitHub.
-You can **directly copy and paste** this into your `README.md`, and just add your screenshot and file links where marked.
-
----
-
 # 🧩 AtliQ Hardwares: Sales Insight and Performance Dashboard
 
 ### 📊 Power BI Dashboard | 📑 Report | 🎯 Sales Insights
 
-**Prepared by:** Hithesh Kumar H
+
 
 ---
 
@@ -150,10 +145,10 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 *Add your dashboard visuals here (e.g., Revenue by Market, Product Performance, Regional Trends, etc.)*
 
-```
-![Dashboard Overview](add-your-screenshot-link-here)
+
+![Dashboard Overview](https://github.com/hiteshkumarh/Atliq-sales-insight/blob/main/Screenshot%20of%20dasboard.png)
 ![Data Model](add-your-screenshot-link-here)
-```
+
 
 ---
 

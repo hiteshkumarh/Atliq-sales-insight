@@ -157,10 +157,3 @@ By integrating **SQL and Power BI**, the project empowered AtliQ Hardwares’ le
 
 **Hithesh Kumar H**
 *Data Analyst | SQL | Power BI | Data Visualization*
-
-📧 [[your-email@example.com](mailto:your-email@example.com)]
-🔗 [LinkedIn Profile](add-link-here)
-
----
-
-Would you like me to make this README slightly **shorter (portfolio-friendly)** version that highlights visuals and key outcomes first — ideal for LinkedIn post or GitHub project pin?
